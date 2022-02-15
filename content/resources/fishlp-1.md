@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: fishlp.xls
-type: OCWFile
 uid: 09669a59-44cb-4e33-42e7-fa546063c259
 ---

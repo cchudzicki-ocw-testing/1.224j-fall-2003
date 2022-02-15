@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture3_ip_intro.pdf
-type: OCWFile
 uid: d3da30e3-058f-9c86-db44-3d74d8a587b7
 ---

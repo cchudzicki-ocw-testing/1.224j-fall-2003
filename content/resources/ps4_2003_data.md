@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: ps4_2003_data.xls
-type: OCWFile
 uid: 5c7874a9-dad3-cc55-6ed3-636d37924eef
 ---

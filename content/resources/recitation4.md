@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: recitation4.pdf
-type: OCWFile
 uid: 3ca522e0-b2c7-f551-f8c2-190af6a8f260
 ---

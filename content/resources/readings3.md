@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: readings3.pdf
-type: OCWFile
 uid: 5f0219f4-66a9-6939-33dd-335e1fbb350a
 ---
