@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-224j-carrier-systems-fall-2003/17cb27b1fd88ffd6e8b64eba565403fe_ps1_solution.xls
+file: /courses/1-224j-carrier-systems-fall-2003/17cb27b1fd88ffd6e8b64eba565403fe_ps1_solution.xls
 file_type: application/msword
 learning_resource_types:
 - Assignments

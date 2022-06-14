@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-224j-carrier-systems-fall-2003/2811593f1d5544d735678ef4e32cf632_readings6.pdf
+file: /courses/1-224j-carrier-systems-fall-2003/2811593f1d5544d735678ef4e32cf632_readings6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
