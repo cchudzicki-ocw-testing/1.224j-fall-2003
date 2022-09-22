@@ -5,6 +5,7 @@ file: /courses/1-224j-carrier-systems-fall-2003/5c7874a9dad3cc556ed3636d37924eef
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

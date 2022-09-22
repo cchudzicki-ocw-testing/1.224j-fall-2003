@@ -5,6 +5,7 @@ file: /courses/1-224j-carrier-systems-fall-2003/bff6ae0f72aa82d79fcdd575d8c7b91b
 file_type: application/msword
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

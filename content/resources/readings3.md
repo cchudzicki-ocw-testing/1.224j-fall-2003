@@ -5,6 +5,7 @@ file: /courses/1-224j-carrier-systems-fall-2003/5f0219f466a9693933dd335e1fbb350a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
